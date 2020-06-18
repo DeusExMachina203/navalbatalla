@@ -1,0 +1,3 @@
+C:/Users/deloa/OneDrive/Desktop/uni/tareas/navalbatalla/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/deloa/OneDrive/Desktop/uni/tareas/navalbatalla/cmake-build-debug/CMakeFiles/navalbatalla.dir
+C:/Users/deloa/OneDrive/Desktop/uni/tareas/navalbatalla/cmake-build-debug/CMakeFiles/rebuild_cache.dir
